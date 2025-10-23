@@ -11,8 +11,8 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ## 📦 Projects
 
-- `💉` **`NiceRAT`**<br>
-\\___[ lightweight remote acess toolkit<br>
+- `💉` **`CyberClient`**<br>
+\\___[ malware developer and hacking enthusiast<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `asm`, `c`
 
 ## `👨‍💻` Development
