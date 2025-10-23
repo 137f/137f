@@ -18,7 +18,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ###
 
-## 📦 Projects
+## 🚨 About
 
 - `💉` **`@137f`**<br>
 \\___[ malware developer and hacking enthusiast<br>
