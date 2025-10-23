@@ -26,6 +26,6 @@ Malware is not only about viruses — companies preinstall it all the time.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## `👨‍💻` Development
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,python,js,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 <p align="center">
 </p>
