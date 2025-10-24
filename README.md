@@ -21,7 +21,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 ## 🚨 About
 
 - `💉` **`@137f`**<br>
-\\___[ -CyberSecurity Enthusiast.<br>
+\\___[ -Legends Never Die.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
