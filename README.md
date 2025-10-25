@@ -20,6 +20,9 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ## 🚨 About
 
+- `💉` **`@137f`**<br>
+\\___[ -Legends Never Die.<br>
+
 ```hex
 00000000: 4d5a90000300000004000000ffff0000  MZ..............
 00000010: b8000000000000004000000000000000  ........@.......
@@ -30,9 +33,6 @@ Malware is not only about viruses — companies preinstall it all the time.
 00000060: 6C3176332E496D70337266336374212E  l1v3.Imp3rf3ct!
 00000070: 6275742062333475743166756C2E2E2E  but b34ut1ful.$
 ```
-
-- `💉` **`@137f`**<br>
-\\___[ -Legends Never Die.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
