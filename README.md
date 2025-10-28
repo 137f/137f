@@ -22,8 +22,11 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 - 💉 @137f
 \___[ -CyberSecurity Enthusiast.
+
 \___[ -WebHacking and Osint.
+
 \___[ -Malware Developer.
+
 \___[ -Since 2018.
 
 ```hex
