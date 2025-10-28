@@ -20,8 +20,11 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ## 🚨 About
 
-- `💉` **`@137f`**<br>
-\\___[ -Legends Never Die.<br>
+- 💉 @137f
+\___[ -CyberSecurity Enthusiast.
+\___[ -WebHacking and Osint.
+\___[ -Malware Developer.
+\___[ -Since 2018.
 
 ```hex
 00000000: 4d5a90000300000004000000ffff0000  MZ..............
