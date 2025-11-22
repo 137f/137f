@@ -33,7 +33,7 @@ Malware is not only about viruses — companies preinstall it all the time.
       .;cccccccccccccccccccccc;.         OS: Fedora Linux 41 (Workstation Edition) x 
     .:cccccccccccccccccccccccccc:.       Host: DESKTOP
   .;ccccccccccccc;.:dddl:.;ccccccc;.     Shell: bash 5.2.32 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Resolution: 1920x1200 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Resolution: 1920x1080
 .:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.   WM: Hyprland 
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   CPU: AMD Ryzen 5 5600X (12) @ 4.600GHz
 :cccccccccccccc;MMM.;cccccccccccccccc:   GPU: NVIDIA GeForce RTX 4060 Ti
