@@ -1,6 +1,8 @@
-Olá! Eu sou o 137f 🖐️
+Hello! I’m 137f 🖐️
 
-## Tecnologias que eu uso no meu dia.
+I work with programming and forensic analysis applied to digital security, with a particular interest in studying fraud detection mechanisms and bypass techniques in online environments. Currently, I develop solutions for multiplayer games, focusing on protecting the user experience. In parallel, as part of my technical growth, I create tools as a hobby that enhance my operational efficiency and deepen my knowledge in the field.
+
+my stack
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
